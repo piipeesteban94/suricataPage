@@ -2,9 +2,14 @@
     background-color: #E83E8C!important;
 }
 
-#p{
+body{
+    font-family: "Open Sans", sans-serif; 
+}
+
+.color-blanco{
     color: white;
 }
+
 
 #imglogo{
     top: 12px;
@@ -15,14 +20,27 @@
     opacity: 1;
 }
 
-logo-footer{
+.logo-footer{
     max-height: 100px;
 }
 
 .fa-iconos{
     font-size: 2em;
-  }
+}
+
   .icons-section{
     color: white;
     font-size: 2.5em;
-  }
+}
+  
+.h2-pagos{
+    top: 1265px;
+    left: 120px;
+    width: 350px;
+    height: 55px;
+    text-align: left;
+    font: normal normal bold 40px/55px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
