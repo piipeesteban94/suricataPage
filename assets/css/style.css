@@ -1,0 +1,28 @@
+.fondo-rosado{
+    background-color: #E83E8C!important;
+}
+
+#p{
+    color: white;
+}
+
+#imglogo{
+    top: 12px;
+    left: 119px;
+    width: 132px;
+    height: 53px;
+    background: transparent url('img/logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+logo-footer{
+    max-height: 100px;
+}
+
+.fa-iconos{
+    font-size: 2em;
+  }
+  .icons-section{
+    color: white;
+    font-size: 2.5em;
+  }
